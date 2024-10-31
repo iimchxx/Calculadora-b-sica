@@ -1,0 +1,1 @@
+La Calculadora Cuenta Pollitos es una aplicación de escritorio sencilla desarrollada en C# con Windows Forms. Su objetivo principal es realizar operaciones básicas de aritmética (suma, resta, multiplicación y división).
